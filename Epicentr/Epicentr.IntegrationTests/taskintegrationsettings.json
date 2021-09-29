@@ -1,0 +1,5 @@
+{
+    "ConnectionStrings": {
+        "SqlServerDbConnection": "Server=(local);Database=EpicentrDb_TaskTests;trusted_connection=true"
+    }
+}
